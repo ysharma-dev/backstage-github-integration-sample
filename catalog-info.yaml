@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage-github-integration-sample
+  name: exGithubActions
   description: Component with GitHub actions enabled.
   annotations:
     github.com/project-slug: 'ysharma-dev/backstage-github-integration-sample'
